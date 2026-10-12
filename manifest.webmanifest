@@ -1,0 +1,16 @@
+{
+  "name": "Language Studio",
+  "short_name": "LangStudio",
+  "description": "เรียน 9 ภาษาสำหรับคนไทย: คำศัพท์ ประโยค แฟลชการ์ด มินิเกม ฝึกพูด และคุยกับ AI",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2b2350",
+  "theme_color": "#2b2350",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
